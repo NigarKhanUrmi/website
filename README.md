@@ -1,0 +1,3 @@
+-> Go to this link: https://htmlpreview.github.io/
+-> Go to index.html file.
+-> Copy the url of index.html file and paste it.
