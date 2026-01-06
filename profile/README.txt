@@ -1,8 +1,8 @@
 
-TITLE: 
+TITLE: Nigar Sultana Portfolio
 Profile - 100% Fully Responsive Free HTML5 Bootstrap Template
 
-AUTHOR:
+AUTHOR: Nigar Sultana
 DESIGNED & DEVELOPED by FreeHTML5.co
 
 Website: http://freehtml5.co/
