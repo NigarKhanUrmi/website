@@ -1,3 +1,3 @@
 -> Go to this link: https://htmlpreview.github.io/
 -> Go to index.html file.
--> Copy the url of index.html file and paste it.
+-> Copy the url of index.html file: https://github.com/NigarKhanUrmi/website/blob/main/thakur/index.html and paste it.
